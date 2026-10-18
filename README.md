@@ -81,3 +81,21 @@ Retrouve les commandes et les explications de chaque étape dans **[HOW.md](HOW.
 Pour ton réseau Wi-Fi, choisis un mot de passe **long, aléatoire et unique**, d’au moins **16 caractères**, généré et conservé dans un gestionnaire de mots de passe. Une phrase de passe composée de plusieurs mots choisis au hasard est aussi une option. Ces principes suivent les [recommandations de la CISA](https://www.cisa.gov/sites/default/files/2024-09/Secure-Our-World-Passwords-Tip-Sheet.pdf).
 
 **Un mot de passe absent de RockYou n’est pas forcément robuste : l’échec d’un test par dictionnaire ne garantit pas la sécurité de ton réseau.**
+
+---
+
+## L’écosystème cybersécurité
+
+| [Kali Linux](https://www.kali.org/) | [Wireshark](https://www.wireshark.org/) | [OWASP](https://owasp.org/) | [Hack The Box](https://www.hackthebox.com/) | [TryHackMe](https://tryhackme.com/) |
+| :---: | :---: | :---: | :---: | :---: |
+| <a href="https://www.kali.org/"><img src="assets/logos/kali-linux.svg" alt="Logo Kali Linux" width="56" height="56"></a> | <a href="https://www.wireshark.org/"><img src="assets/logos/wireshark.svg" alt="Logo Wireshark" width="56" height="56"></a> | <a href="https://owasp.org/"><img src="assets/logos/owasp.svg" alt="Logo OWASP" width="56" height="56"></a> | <a href="https://www.hackthebox.com/"><img src="assets/logos/hack-the-box.svg" alt="Logo Hack The Box" width="56" height="56"></a> | <a href="https://tryhackme.com/"><img src="assets/logos/tryhackme.svg" alt="Logo TryHackMe" width="56" height="56"></a> |
+
+### Organismes, standards et référentiels
+
+| [NIST](https://www.nist.gov/cyberframework) | [CIS](https://www.cisecurity.org/) | [IEEE](https://www.ieee.org/) | [IETF](https://www.ietf.org/) | [ISACA](https://www.isaca.org/) |
+| :---: | :---: | :---: | :---: | :---: |
+| <a href="https://www.nist.gov/cyberframework"><img src="assets/logos/nist.svg" alt="Logo NIST" width="100" height="56"></a> | <a href="https://www.cisecurity.org/"><img src="assets/logos/cis.svg" alt="Logo Center for Internet Security" width="110" height="56"></a> | <a href="https://www.ieee.org/"><img src="assets/logos/ieee.svg" alt="Logo IEEE" width="56" height="56"></a> | <a href="https://www.ietf.org/"><img src="assets/logos/ietf.svg" alt="Logo IETF" width="100" height="56"></a> | <a href="https://www.isaca.org/"><img src="assets/logos/isaca.svg" alt="Logo ISACA" width="110" height="56"></a> |
+
+Pour découvrir les normes et les référentiels : [ISO/IEC 27001](https://www.iso.org/standard/27001), [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) et [CIS Controls](https://www.cisecurity.org/controls).
+
+<!-- Sources des logos : Simple Icons (Kali Linux, Wireshark, OWASP, Hack The Box, TryHackMe, IEEE) ; sites officiels du NIST, du CIS, de l’IETF et d’ISACA. -->

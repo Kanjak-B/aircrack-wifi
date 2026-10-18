@@ -108,6 +108,22 @@ nmcli device status
 ```
 Ton interface devrait apparaître avec le type wifi et un état comme disconnected ou connected, plutôt que unmanaged.
 
+# Si le nom de la carte est restee wlp2s0mon
+
+```bash
+sudo airmon-ng stop wlp2s0mon
+sudo systemctl restart NetworkManager
+```
+
+Renommer si necessaire :
+
+```bash
+sudo ip link set wlp2s0mon down
+sudo ip link set wlp2s0mon name wlp2s0
+sudo ip link set wlp2s0 up
+sudo systemctl restart NetworkManager
+```
+
 # Etape 3. Installer le dictionnaire de mot de passe rockyou
 
 ## Installer les outils nécessaires
